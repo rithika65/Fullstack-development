@@ -1,4 +1,4 @@
-student=[]
+students=[]
 while True:
     print("""\ 1.add students
     2. view students
@@ -14,17 +14,17 @@ while True:
             "age":age,
             "course":course
           }
-         student.append(student)
+         students.append(student)
          print("student added successfully")
     elif choice=="2":
-            for student in student:
+            for student in students:
                 print(student)
     elif choice=="3":
             search=input("enter a name:")
-            for student in student:
-                if student["name"]==search:
+            for student in students:
+                if student['name']==search:
                     print(student)
     elif choice=="4":
             break
     else:
-            print("wrong option")
+            print("wrong option")   
