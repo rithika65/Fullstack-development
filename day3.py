@@ -173,9 +173,9 @@
 # finally:
 #     print("file not found")
 # else block
-try:
-    print(10/2)
-except:
-    print("error")
-else:
-    print("success")
+# try:
+#     print(10/2)
+# except:
+#     print("error")
+# else:
+#     print("success")
