@@ -1,22 +1,22 @@
-product_price = 5000
-delivery_charges = 100
-total=product_price+delivery_charges
-print(total)
+# product_price = 5000
+# delivery_charges = 100
+# total=product_price+delivery_charges
+# print(total)
 
-product_price = 5000
-delivery_charges = 100
-total=product_price-delivery_charges
-print(total)
+# product_price = 5000
+# delivery_charges = 100
+# total=product_price-delivery_charges
+# print(total)
 
-product_price = 5000
-delivery_charges = 100
-total=product_price*delivery_charges
-print(total)
+# product_price = 5000
+# delivery_charges = 100
+# total=product_price*delivery_charges
+# print(total)
 
-product_price = 5000
-delivery_charges = 100
-total=product_price/delivery_charges
-print(total)
+# product_price = 5000
+# delivery_charges = 100
+# total=product_price/delivery_charges
+# print(total)
 
 product_price = 5000
 delivery_charges = 100

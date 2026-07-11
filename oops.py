@@ -25,7 +25,9 @@
 # print(s1.name,s1.age)
 # print(s2.name,s2.age)
 # print(s3.name,s3.age)
+
 #methods
+
 # class bank:
 #     def __init__(self,balance):
 #         self.balance=balance
@@ -179,6 +181,9 @@
 # )
 # data=response.json()
 # print(data)
+
+#######encapsulation######## wrapping of the data in single unit and controlling  access of th data
+
 
 
 
