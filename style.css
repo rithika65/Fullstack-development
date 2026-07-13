@@ -1,0 +1,28 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Welcome to Cozy Cafe</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Nav Bar -->
+    <nav class="navbar">
+        <div class="logo">☕ Cozy Cafe</div>
+        <ul class="nav-links">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Menu</a></li>
+            <li><a href="#">About</a></li>
+        </ul>
+    </nav>
+
+    <!-- Welcome Hero Content -->
+    <header class="welcome-section">
+        <h1>Welcome to Cozy Cafe</h1>
+        <p>Your favorite spot for fresh coffee and warm vibes.</p>
+        <a href="#" class="btn">Explore Menu</a>
+    </header>
+
+</body>
+</html>
